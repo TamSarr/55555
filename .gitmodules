@@ -1,0 +1,3 @@
+[submodule "theme/caldera"]
+	path = theme/caldera
+	url = https://github.com/TamSarr/caldera.git
